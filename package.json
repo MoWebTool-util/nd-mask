@@ -1,6 +1,6 @@
 {
   "name": "nd-mask",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "全屏遮罩层组件",
   "keywords": [],
   "homepage": "https://github.com/ndfront/nd-mask",
@@ -26,7 +26,7 @@
   "spm": {
     "main": "index.js",
     "dependencies": {
-      "nd-overlay": "0.1.1"
+      "nd-overlay": "1.0.0"
     },
     "devDependencies": {
       "expect.js": "0.3.1",
